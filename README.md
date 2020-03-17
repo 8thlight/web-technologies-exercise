@@ -26,6 +26,10 @@
 
 - [CSS Grid Layout Crash Course - YouTube](https://www.youtube.com/watch?v=jV8B24rSN5o)
 
+- [BEM Naming](https://css-tricks.com/bem-101/)
+
+- [ITCSS Inverted Triangle CSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
+
 ---
 
 ## Built off the Apprentice Web Starter Kit
